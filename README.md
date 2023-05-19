@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jens (@Diversiam90815)
 - 👀 I’m interested in classical music, film and video game music and programming
 - 🌱 I’m currently learning C++ and Qt. I love C++!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting projects. /:-)
 - 📫 You can reach me on my website diversiam.com
 
 <!---
