@@ -56,7 +56,8 @@
     <td>
       <p align=center>
         <a href="https://github.com/Diversiam90815/Chess-Game" target="_blank">
-          </a>
+          <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Chess-Game&theme=github_dark"/>
+        </a>
       </p>
     </td>
     <td>
