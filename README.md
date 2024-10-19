@@ -39,8 +39,8 @@
   <tr>
     <td>
       <p align=center>
-        <a href="https://github.com/Diversiam90815/TheInstrumentsOfTheOrchestra" target="_blank">
-          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=TheInstrumentsOfTheOrchestra&theme=github_dark"/>
+        <a href="https://github.com/Diversiam90815/TheOrchestra" target="_blank">
+          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=TheOrchestra&theme=github_dark"/>
         </a>
       </p>
     </td>
