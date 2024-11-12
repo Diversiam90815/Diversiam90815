@@ -46,8 +46,8 @@
     </td>
     <td>
       <p align=center>
-        <a href="https://github.com/Diversiam90815/Plugin-Distortion" target="_blank">
-          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Plugin-Distortion&theme=github_dark"/>
+        <a href="https://github.com/Diversiam90815/MultiEffekt-Plugin" target="_blank">
+          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=MultiEffekt-Plugin&theme=github_dark"/>
         </a>
       </p>
     </td>
