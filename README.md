@@ -46,8 +46,8 @@
     </td>
     <td>
       <p align=center>
-        <a href="https://github.com/Diversiam90815/MultiEffekt-Plugin" target="_blank">
-          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=MultiEffekt-Plugin&theme=github_dark"/>
+        <a href="https://github.com/Diversiam90815/Chess-Game" target="_blank">
+          <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Chess-Game&theme=github_dark"/>
         </a>
       </p>
     </td>
@@ -55,8 +55,8 @@
   <tr>
     <td>
       <p align=center>
-        <a href="https://github.com/Diversiam90815/Chess-Game" target="_blank">
-          <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Chess-Game&theme=github_dark"/>
+        <a href="https://github.com/Diversiam90815/MultiEffekt-Plugin" target="_blank">
+          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=MultiEffekt-Plugin&theme=github_dark"/>
         </a>
       </p>
     </td>
@@ -110,8 +110,6 @@
             <img align="center" alt="Git" width="50px" src="Assets/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="GitLab" width="50px" src="Assets/gitlab.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="CMake" width="50px" src="Assets/cmake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="Dolby Atmos" width="50px" src="Assets/dolbyatmos.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="Ambisonics" width="50px" src="Assets/ambisonics.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
         </tr>
       </table>
