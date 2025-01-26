@@ -62,8 +62,8 @@
     </td>
     <td>
       <p align=center>
-        <a href="https://github.com/Diversiam90815/Space-Wars" target="_blank">
-          <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Space-Wars&theme=github_dark"/>
+        <a href="https://github.com/Diversiam90815/Logger" target="_blank">
+          <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Logger&theme=github_dark"/>
         </a>
       </p>
     </td>
