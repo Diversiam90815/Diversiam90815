@@ -45,15 +45,15 @@
   <tr>
     <td>
       <p align=center>
-        <a href="https://github.com/Diversiam90815/TheInstrumentsOfTheOrchestra" target="_blank">
-          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=TheInstrumentsOfTheOrchestra&theme=github_dark"/>
+        <a href="https://github.com/Diversiam90815/TheOrchestra" target="_blank">
+          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=TheOrchestra&theme=github_dark"/>
         </a>
       </p>
     </td>
     <td>
       <p align=center>
-        <a href="https://github.com/Diversiam90815/Plugin-Distortion" target="_blank">
-          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Plugin-Distortion&theme=github_dark"/>
+        <a href="https://github.com/Diversiam90815/Chess-Game" target="_blank">
+          <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Chess-Game&theme=github_dark"/>
         </a>
       </p>
     </td>
@@ -61,15 +61,15 @@
   <tr>
     <td>
       <p align=center>
-        <a href="https://github.com/Diversiam90815/Chess-Game" target="_blank">
+        <a href="https://github.com/Diversiam90815/MultiEffekt-Plugin" target="_blank">
           <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Chess-Game&theme=github_dark"/>
         </a>
       </p>
     </td>
     <td>
       <p align=center>
-        <a href="https://github.com/Diversiam90815/Space-Wars" target="_blank">
-          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Space-Wars&theme=github_dark"/>
+        <a href="https://github.com/Diversiam90815/Logger" target="_blank">
+          <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Space-Wars&theme=github_dark"/>
         </a>
       </p>
     </td>
@@ -116,8 +116,6 @@
             <img align="center" alt="Git" title="Git" width="50px" src="Assets/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="GitLab" title="GitLab" width="50px" src="Assets/gitlab.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="CMake" title="CMake" width="50px" src="Assets/cmake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="Dolby Atmos" title="Dolby Atmos" width="50px" src="Assets/dolbyatmos.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="Ambisonics" title="Ambisonics" width="50px" src="Assets/ambisonics.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
         </tr>
       </table>
