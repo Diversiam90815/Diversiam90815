@@ -19,19 +19,19 @@
         </p>
       <p align = "center">
       <a href="https://www.linkedin.com/in/jens-langenberg-280990172/" target="_blank">
-        <img align="center" alt="LinkedIn" width="45px" src="Assets/linkedin.png" />
+        <img align="center" alt="LinkedIn" title="LinkedIn" width="45px" src="Assets/linkedin.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/Diversiam90815" target="_blank">
-        <img align="center" alt="GitHub" width="40px" src="Assets/github.png" />
+        <img align="center" alt="GitHub" title="GitHub" width="40px" src="Assets/github.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.diversiam.com" target="_blank">
-        <img align="center" alt="Website" width="40px" src="Assets/website.svg" />
+        <img align="center" alt="Website" title="Website" width="40px" src="Assets/website.svg" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://open.spotify.com/artist/5JSNQQjlPc8HnwdZStpKBR?si=MJActuu0TuO4jZKP-QiS0A" target="_blank">
-        <img align="center" alt="Spotify" width="40px" src="Assets/spotify.png" />
+        <img align="center" alt="Spotify" title="Spotify" width="40px" src="Assets/spotify.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://music.apple.com/de/artist/diversiam/1463841687?l=en-GB" target="_blank">
-        <img align="center" alt="AppleMusic" width="40px" src="Assets/applemusic.png" />
+        <img align="center" alt="AppleMusic" title="Apple Music" width="40px" src="Assets/applemusic.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
       </p>
     </td>
@@ -62,14 +62,14 @@
     <td>
       <p align=center>
         <a href="https://github.com/Diversiam90815/MultiEffekt-Plugin" target="_blank">
-          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Chess-Game&theme=github_dark"/>
+          <img width="500em" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=MultiEffekt-Plugin&theme=github_dark"/>
         </a>
       </p>
     </td>
     <td>
       <p align=center>
         <a href="https://github.com/Diversiam90815/Logger" target="_blank">
-          <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Space-Wars&theme=github_dark"/>
+          <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=Diversiam90815&repo=Logger&theme=github_dark"/>
         </a>
       </p>
     </td>
