@@ -116,6 +116,7 @@
             <img align="center" alt="Git" title="Git" width="50px" src="Assets/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="GitLab" title="GitLab" width="50px" src="Assets/gitlab.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="CMake" title="CMake" width="50px" src="Assets/cmake.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="Qt" title="Qt" width="50px" src="Assets/Qt-logo.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
         </tr>
       </table>
