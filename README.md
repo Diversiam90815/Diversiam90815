@@ -106,7 +106,6 @@
           <td>
             <img align="center" alt="JUCE" title="JUCE" width="50px" src="Assets/juce.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="OSC" title="OSC" width="50px" src="Assets/osc.jpg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="REST API" title="RestAPI" width="50px" src="Assets/restapi.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt=".NET" title=".NET" width="50px" src="Assets/microsoft-net.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
         </tr>
