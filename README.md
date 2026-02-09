@@ -62,7 +62,7 @@
 ## Languages and Tools
 
 ### 🧠 Core Languages  
-C++ (Modern C++ 17/20), C#, Python
+C++ (Modern C++ 17/20), C#, Python, TypeScript
 
 ### 🎛 Audio Development  
 JUCE · DSP Algorithms · VST3 Plugin Development · Real-Time Audio ·  
