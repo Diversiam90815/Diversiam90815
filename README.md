@@ -62,7 +62,7 @@
 ## Languages and Tools
 
 ### 🧠 Core Languages  
-C++ (Modern C++ 17/20), C#, Python, TypeScript
+C++, C#, Python, TypeScript
 
 ### 🎛 Audio Development  
 JUCE · DSP Algorithms · VST3 Plugin Development · Real-Time Audio ·  
@@ -72,16 +72,19 @@ Nuendo · Dorico · Pro Tools · 3D Audio / Spatial Mixing
 WinUI 3 · .NET · Win32 · Qt
 
 ### 🌐 Networking  
-OSC · UDP/TCP Socket Programming · REST APIs · Real-Time Multiplayer Systems
+OSC · UDP/TCP Socket Programming
 
 ### 🛠 Build & Dependencies  
 CMake · Conan · nuget · MSBuild · MSIX Packaging
 
 ### 🧪 Testing & Quality  
-GoogleTest · Sentry · Logging Systems (spdlog wrapper)
+GoogleTest · Sentry · Logging Systems
 
 ### 🔧 DevOps & Tooling  
-Git · GitLab CI · Debug symbol pipelines · Automation scripts
+Git · GitLab CI · Automation scripts
+
+### 🔧 Agile & Scrum Tools  
+Jira · Confluence · Slack · Microsoft Teams · Trello · Miro
 
 ### 💻 Platforms  
 Windows (primary), cross-platform C++ development
