@@ -53,9 +53,6 @@
 - ♟️ **[Chess Engine](https://github.com/Diversiam90815/Chess-Game)**  
   C++ chess engine with a C# frontend, including an integrated Chess engine & LAN multiplayer.
 
-- 🎚️ **[Multieffekt Plugin](https://github.com/Diversiam90815/MultiEffekt-Plugin)**  
-  A JUCE-based multi-effect audio processor.
-
 - 🗂️ **[Logger](https://github.com/Diversiam90815/Logger)**  
   Cross-platform C++ logging wrapper around SPD-Log.
 
