@@ -49,15 +49,15 @@
 
 - 🎻 **[The Orchestra](https://github.com/Diversiam90815/TheOrchestra)**  
   A learning tool for orchestral instruments including a small sampler with piano roll editing.
-  
-- ♟️ **[Chess Engine](https://github.com/Diversiam90815/Chess-Engine)**  
-  C++ chess engine, including a LAN multiplayer.
-
-- 🔗 **[NetLink](https://github.com/Diversiam90815/NetLink)**  
-  C++ networking library handling connection management and comminication layer for multiplayer applications
 
 - ♟️ **[Chess Game Windows](https://github.com/Diversiam90815/Chess-Windows)**  
   C# & WinUi3 chess application.
+  
+- ♟️ **[Chess Engine](https://github.com/Diversiam90815/Chess-Engine)** (in development)
+  C++ chess engine, including a LAN multiplayer.
+
+- 🔗 **[NetLink](https://github.com/Diversiam90815/NetLink)** (in development)
+  C++ networking library handling connection management and comminication layer for multiplayer applications
 
 - 🗂️ **[Logger](https://github.com/Diversiam90815/Logger)**  
   Cross-platform C++ logging wrapper around SPD-Log.
