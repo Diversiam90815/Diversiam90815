@@ -46,18 +46,17 @@
 
 
 ## Featured Projects
-
 - 🎻 **[The Orchestra](https://github.com/Diversiam90815/TheOrchestra)**  
   A learning tool for orchestral instruments including a small sampler with piano roll editing.
 
 - ♟️ **[Chess Game Windows](https://github.com/Diversiam90815/Chess-Windows)**  
   C# & WinUi3 chess application.
-  
-- ♟️ **[Chess Engine](https://github.com/Diversiam90815/Chess-Engine)** (in development)
+
+- ♟️ **[Chess Engine](https://github.com/Diversiam90815/Chess-Engine)** ![Status](https://img.shields.io/badge/in%20development-orange?style=flat-square)  
   C++ chess engine, including a LAN multiplayer.
 
-- 🔗 **[NetLink](https://github.com/Diversiam90815/NetLink)** (in development)
-  C++ networking library handling connection management and comminication layer for multiplayer applications
+- 🔗 **[NetLink](https://github.com/Diversiam90815/NetLink)** ![Status](https://img.shields.io/badge/in%20development-orange?style=flat-square)  
+  C++ networking library handling connection management and communication layer for multiplayer applications.
 
 - 🗂️ **[Logger](https://github.com/Diversiam90815/Logger)**  
   Cross-platform C++ logging wrapper around SPD-Log.
