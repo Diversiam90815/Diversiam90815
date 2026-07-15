@@ -30,6 +30,9 @@
       <a href="https://music.apple.com/de/artist/diversiam/1463841687?l=en-GB" target="_blank">
         <img align="center" alt="AppleMusic" title="Apple Music" width="40px" src="Assets/applemusic.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://lichess.org/@/Diversiam" target="_blank">
+        <img align="center" alt="Lichess" title="Lichess" width="40px" src="Assets/lichess.png" />
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
       </p>
     </td>
     <td><img align="center" src="Assets/beethoven.jpg" width="300" /></td>
@@ -42,21 +45,21 @@
 - 🎼 Classical composer & 3D audio post-production enthusiast  
 - 🧪 I love building: samplers, audio effects, UI tools, and game-style systems  
 - ♟️ Also created a full chess engine because… why not?  
-- 🌍 Always learning, always creating — whether in code or music
+- 🌍 Always learning, always creating, whether in code or music
 
 
 ## Featured Projects
 - 🎻 **[The Orchestra](https://github.com/Diversiam90815/TheOrchestra)**  
   A learning tool for orchestral instruments including a small sampler with piano roll editing.
 
-- ♟️ **[Chess Game Windows](https://github.com/Diversiam90815/Chess-Windows)**  
-  C# & WinUi3 chess application.
+- 🔗 **[NetLink](https://github.com/Diversiam90815/NetLink)** ![Status](https://img.shields.io/badge/in%20development-orange?style=flat-square)  
+  C++ networking library handling connection management and communication layer for multiplayer applications.
 
 - ♟️ **[Chess Engine](https://github.com/Diversiam90815/Chess-Engine)** ![Status](https://img.shields.io/badge/in%20development-orange?style=flat-square)  
   C++ chess engine, including a LAN multiplayer.
 
-- 🔗 **[NetLink](https://github.com/Diversiam90815/NetLink)** ![Status](https://img.shields.io/badge/in%20development-orange?style=flat-square)  
-  C++ networking library handling connection management and communication layer for multiplayer applications.
+- ♟️ **[Chess Game Windows](https://github.com/Diversiam90815/Chess-Windows)**  
+  C# & WinUi3 chess application built upon the [Chess Engine](https://github.com/Diversiam90815/Chess-Engine).
 
 - 🗂️ **[Logger](https://github.com/Diversiam90815/Logger)**  
   Cross-platform C++ logging wrapper around SPD-Log.
@@ -64,7 +67,7 @@
 ## Languages and Tools
 
 ### 🧠 Core Languages  
-C++, C#, Python, TypeScript
+C++ · C · C# · Python · TypeScript
 
 ### 🎛 Audio Development  
 JUCE · DSP Algorithms · VST3 Plugin Development · Real-Time Audio ·  
@@ -74,7 +77,7 @@ Nuendo · Dorico · Pro Tools · 3D Audio / Spatial Mixing
 WinUI 3 · .NET · Win32 · Qt
 
 ### 🌐 Networking  
-OSC · UDP/TCP Socket Programming
+OSC · UDP/TCP
 
 ### 🛠 Build & Dependencies  
 CMake · Conan · nuget · MSBuild · MSIX Packaging
@@ -86,7 +89,4 @@ GoogleTest · Sentry · Logging Systems
 Git · GitLab CI · Automation scripts
 
 ### 🔧 Agile & Scrum Tools  
-Jira · Confluence · Slack · Microsoft Teams · Trello · Miro
-
-### 💻 Platforms  
-Windows (primary), cross-platform C++ development
+Jira · Confluence · Slack · Trello · Miro
